@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7nLSmlZ7kifZQBKdz0EVotPeNACBvIco76kkPLhOVKGvZ4pJKu/SBs2kTblvOJG/rOLHOWxLFKk9E25Gil42gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\DuplicitFiles\\DuplicitFiles\\DuplicitFiles\\DuplicitFiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
